@@ -23,7 +23,7 @@ def shift_with_args(array)
 end
 
 def using_concat(a, b)
-  array.concat(array)
+  a.concat(b)
 end
 
 def using_uniq(array)
