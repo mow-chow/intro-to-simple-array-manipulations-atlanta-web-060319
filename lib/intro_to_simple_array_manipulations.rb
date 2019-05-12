@@ -7,5 +7,5 @@ def un_shift(array, string)
 end
 
 def using_pop(array, string)
-  
+
 end
