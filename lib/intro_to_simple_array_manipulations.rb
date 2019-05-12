@@ -42,8 +42,8 @@ def using_delete(array, string)
   array.delete(string)
 end
 
-def using_delete_at(array, integer)
+def using_delete_at(array, index)
   array = ["the dog from doctor who", "R2D2", "Ultron"]
-  integer = 2
-  array.delete(integer)
+  index = 2
+  array.delete(index)
 end
